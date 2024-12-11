@@ -1,6 +1,6 @@
 # Isabella Nicholas' Portfolio
 
-I am a Computer Science major at Cal State Fullerton expecting to graduate with a CS degree in 2028. I hope that my time here will be benificial to my future career in the Tech world. 
+I am a Computer Science major at Cal State Fullerton expecting to graduate with a CS degree in 2028. I hope that my time here will be benificial to my future career in the Tech world. This is my GitHub page: //github.com/bellanicholas
 
 ## Favorite CPSC 120L labs
 * Lab 1 - Hello world!
